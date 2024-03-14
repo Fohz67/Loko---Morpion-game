@@ -1,0 +1,61 @@
+<resources>
+
+    <string name="app_name">Loko</string>
+
+    <string name="courant_daccord">D\'accord</string>
+
+    <string name="croix">Croix</string>
+    <string name="rond">Rond</string>
+
+    <string name="menu_text">Le mode local est un jeu de morpion à 2 sur le même appareil, le mode en ligne se joue sur des appareils différents avec un code.</string>
+    <string name="menu_title">Lokooo</string>
+    <string name="menu_local">Local</string>
+    <string name="menu_enligne">En ligne</string>
+
+    <string name="choix_title">Quel joueur commence ?</string>
+    <string name="choix_content">Commencer en premier peux donner un avantage, alors alternez l\'ordre de commencement ;)</string>
+
+    <string name="multi_creer">Créer</string>
+    <string name="multi_rejoindre">Rejoindre</string>
+    <string name="multi_content">Tu peux rejoindre une partie avec un code ou bien en créer une nouvelle.</string>
+    <string name="multi_title">Mode multijoueur</string>
+    <string name="multi_choose_content">Plutôt la douceur du rond ou la droiture de la croix ?</string>
+    <string name="multi_choose_title">Quelle forme choisis-tu ?</string>
+
+    <string name="code_title">Entre le code</string>
+    <string name="code_hint">-</string>
+    <string name="code_content">Entre le code affiché sur la partie de ton pote.</string>
+    <string name="code_basic">Code : 0000</string>
+    <string name="code_enter">Entrer dans la partie</string>
+
+    <string name="error_partie">Introuvable</string>
+    <string name="error_partie_content">Cette partie n\'existe pas ou a été supprimée. Réessaye avec un autre code.</string>
+    <string name="error_try_other_code">Essayer un autre code</string>
+
+    <string name="full_content">Cette partie est déjà rempli, trouve ou créé une autre partie. (La limite est de 2 personnes par partie).</string>
+    <string name="full_title">Partie pleine</string>
+
+    <string name="victoire_revanche">Revanche</string>
+    <string name="victoire_title">Victoire</string>
+    <string name="victoire_croix">La croix a gagnée ! Bravo à toi, vous pouvez continuer vos parties, les points sont cumulés au fur et à mesure que vous jouez...</string>
+    <string name="victoire_rond">Le rond a gagné ! Bravo à toi, vous pouvez continuer vos parties, les points sont cumulés au fur et à mesure que vous jouez...</string>
+
+    <string name="attente_content">En attente...</string>
+
+    <string name="endgame_multi_victoire">Tu as gagné ! Tu peux proposer une revanche à ton adversaire... En plus c\'est toi qui commencera haha.</string>
+    <string name="endgame_multi_defaite">Tu as perdu ! Tu peux proposer une revanche à ton adversaire... Mais ça ne sera pas toi qui commencera...</string>
+    <string name="endgame_multi_defaite_title">Defaite</string>
+
+    <string name="mathnul_content">Aucun de vous deux n\'a gagné... Faites un revanche pour savoir qui est le meilleur !</string>
+    <string name="matchnul_title">Match nul</string>
+    <string name="attente_content_revanche">En attente de l\'adversaire pour la revanche...</string>
+
+    <string name="deconnexion_bouton">Retour au menu</string>
+    <string name="deconnexion_title">Deconnecté</string>
+    <string name="deconnexion_content">Vous avez été deconnecté car votre adversaire a quitté la partie.</string>
+    <string name="leave_content">Veux-tu vraiment quitter la partie en cours ? Tu ne pourras pas revenir en arrière.</string>
+    <string name="leave_title">Quitter</string>
+    <string name="leave_bouton">Quitter</string>
+    <string name="leave_bouton_no">Rester</string>
+
+</resources>

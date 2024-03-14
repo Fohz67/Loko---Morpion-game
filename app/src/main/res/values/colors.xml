@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    // couleurs brutes
+    <color name="black">#FF000000</color>
+    <color name="black_2">#272727</color>
+    <color name="black_bouton">#3C3C3C</color>
+    <color name="black_text">#505050</color>
+
+    <color name="white">#FFFFFFFF</color>
+
+    // couleurs des items
+    <color name="croix">#A74FFF</color>
+    <color name="rond">#4EBA98</color>
+
+    // couleurs diverses
+    <color name="bouton_rouge">#c33a3a</color>
+    <color name="bouton_vert">#39b34a</color>
+    <color name="bouton_orange">#e19728</color>
+    <color name="bouton_bleu">#4035a8</color>
+
+</resources>
